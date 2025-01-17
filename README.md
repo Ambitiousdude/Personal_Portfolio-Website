@@ -2,7 +2,7 @@
 
 > A Responsive portfolio website
 
-To view a live example, [click here](https://munenecalvin.github.io/Final-Portfolio-Website/)
+To view a live example, [click here](https://personal-portfolio-website-nine-ruby.vercel.app/)
 
 ### Website Preview
 
